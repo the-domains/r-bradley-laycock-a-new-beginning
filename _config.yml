@@ -1,0 +1,28 @@
+name: R Bradley Laycock - A new beginning
+favicon: null
+layout_spectrum: 0.34979345416650176
+typography_spectrum: 0.8363052785862237
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6521322010084987
+  lightness: 0.13626220868900418
+  saturation: 0.9650056927930564
+  rhythmicContrast: 0.9214493772014976
+purpose: []
