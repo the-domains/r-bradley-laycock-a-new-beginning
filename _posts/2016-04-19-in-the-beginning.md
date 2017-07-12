@@ -1,23 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: In the beginning...
-datePublished: '2016-04-19T17:30:48.852Z'
-dateModified: '2016-04-19T17:21:18.275Z'
+datePublished: '2017-07-12T03:17:48.044Z'
+dateModified: '2016-04-19T17:30:55.859Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-04-19-in-the-beginning.md
-published: true
+authors: []
+publisher: {}
+datePublishedOriginal: '2016-04-19T17:30:48.852Z'
+via: {}
 url: in-the-beginning/index.html
 _type: Article
 
